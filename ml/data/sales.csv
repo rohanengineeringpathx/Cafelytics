@@ -1,0 +1,25 @@
+﻿date,product,category,quantity,unit_price
+2026-11-01,Cappuccino,Coffee,12,120
+2026-11-01,Cold Coffee,Beverage,8,140
+2026-11-01,Latte,Coffee,10,130
+2026-11-02,Cappuccino,Coffee,15,120
+2026-11-02,Cold Coffee,Beverage,11,140
+2026-11-02,Latte,Coffee,9,130
+2026-11-03,Cappuccino,Coffee,18,120
+2026-11-03,Cold Coffee,Beverage,13,140
+2026-11-03,Chocolate Brownie,Dessert,7,90
+2026-11-04,Latte,Coffee,14,130
+2026-11-04,Cold Coffee,Beverage,16,140
+2026-11-04,Chocolate Brownie,Dessert,10,90
+2026-11-05,Cappuccino,Coffee,20,120
+2026-11-05,Latte,Coffee,16,130
+2026-11-05,Cold Coffee,Beverage,18,140
+2026-11-06,Cappuccino,Coffee,22,120
+2026-11-06,Chocolate Brownie,Dessert,12,90
+2026-11-06,Latte,Coffee,18,130
+2026-11-07,Cold Coffee,Beverage,20,140
+2026-11-07,Cappuccino,Coffee,25,120
+2026-11-07,Chocolate Brownie,Dessert,15,90
+2026-11-08,Latte,Coffee,20,130
+2026-11-08,Cold Coffee,Beverage,22,140
+2026-11-08,Cappuccino,Coffee,23,120

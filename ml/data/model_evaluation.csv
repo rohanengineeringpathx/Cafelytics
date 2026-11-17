@@ -1,0 +1,4 @@
+date,product,actual_demand,predicted_demand
+2026-11-08,Cappuccino,23,21.34
+2026-11-08,Cold Coffee,22,7.74
+2026-11-08,Latte,20,7.52

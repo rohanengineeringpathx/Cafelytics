@@ -1,0 +1,25 @@
+date,product,total_quantity,total_revenue
+2026-11-01,Cappuccino,12,1440
+2026-11-01,Cold Coffee,8,1120
+2026-11-01,Latte,10,1300
+2026-11-02,Cappuccino,15,1800
+2026-11-02,Cold Coffee,11,1540
+2026-11-02,Latte,9,1170
+2026-11-03,Cappuccino,18,2160
+2026-11-03,Chocolate Brownie,7,630
+2026-11-03,Cold Coffee,13,1820
+2026-11-04,Chocolate Brownie,10,900
+2026-11-04,Cold Coffee,16,2240
+2026-11-04,Latte,14,1820
+2026-11-05,Cappuccino,20,2400
+2026-11-05,Cold Coffee,18,2520
+2026-11-05,Latte,16,2080
+2026-11-06,Cappuccino,22,2640
+2026-11-06,Chocolate Brownie,12,1080
+2026-11-06,Latte,18,2340
+2026-11-07,Cappuccino,25,3000
+2026-11-07,Chocolate Brownie,15,1350
+2026-11-07,Cold Coffee,20,2800
+2026-11-08,Cappuccino,23,2760
+2026-11-08,Cold Coffee,22,3080
+2026-11-08,Latte,20,2600

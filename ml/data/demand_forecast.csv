@@ -1,0 +1,22 @@
+date,product,predicted_demand
+2026-11-09,Cappuccino,13
+2026-11-10,Cappuccino,11
+2026-11-11,Cappuccino,9
+2026-11-12,Cappuccino,12
+2026-11-13,Cappuccino,15
+2026-11-14,Cappuccino,16
+2026-11-15,Cappuccino,16
+2026-11-09,Cold Coffee,7
+2026-11-10,Cold Coffee,14
+2026-11-11,Cold Coffee,17
+2026-11-12,Cold Coffee,14
+2026-11-13,Cold Coffee,10
+2026-11-14,Cold Coffee,18
+2026-11-15,Cold Coffee,14
+2026-11-09,Latte,8
+2026-11-10,Latte,16
+2026-11-11,Latte,14
+2026-11-12,Latte,14
+2026-11-13,Latte,16
+2026-11-14,Latte,15
+2026-11-15,Latte,14
